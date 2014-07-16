@@ -49,6 +49,8 @@ while ans:
                                                             V 1.0
 [+] Coder: Danilo Vaz                                                            
 [+] E-mail: danilovazb[at]gmail[dot]com
+
+[+] Greetz: Arthur Barros, Vinícius Henrique, Slayer and Canhoto
          
 -----------------------------------------
 1. Consulta CPF unico
